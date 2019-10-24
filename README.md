@@ -9,5 +9,5 @@
 		* Notebook com script para coleta de dados do site Nuforc (http://www.nwlink.com/~ufocntr/).
 	- ufoCollect.csv
 		* CSV file com dados coletados utilizando o script de coleta.
-	- RelatorioColeta
+	- RelatorioColeta.docx
 		* Documento de Relatório com passo a passo da coleta de dados.
