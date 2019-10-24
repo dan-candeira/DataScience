@@ -5,7 +5,7 @@
 ---
 #### File Structure
 	- Collect_nurfoc.ipynb
-		* Notebook com script para coleta de dados do site [Nuforc](http://www.nwlink.com/~ufocntr/).
+		* Notebook com script para coleta de dados do site Nuforc (http://www.nwlink.com/~ufocntr/).
 	- ufoCollect.csv
 		* CSV file com dados coletados utilizando o script de coleta.
 	- RelatorioColeta
