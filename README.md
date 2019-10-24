@@ -4,5 +4,7 @@
 #### Instituição: IFB - Instituto Federal de Brasília
 ---
 #### File Structure
-	- Collect_nurfoc
-			* Script para coleta de dados dos posts.
+	- Collect_nurfoc.ipynb
+		* Notebook com script para coleta de dados do site (Nuforc)[http://www.nwlink.com/~ufocntr/].
+	- ufoCollect.csv
+		* CSV file com dados coletados utilizando o script de coleta.
