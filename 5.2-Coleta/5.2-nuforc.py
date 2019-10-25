@@ -27,7 +27,7 @@ def web_scraper(url, tupla):
       table = soup.find_all('table')[0]
       df_tmp = pd.read_html(str(table))[0]
       df = pd.concat([df, df_tmp],ignore_index=True)
-      time.sleep(5)
+      time.sleep(1)
   return df
 
 """#### Chamando função"""
