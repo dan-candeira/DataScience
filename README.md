@@ -4,10 +4,10 @@
 #### Instituição: IFB - Instituto Federal de Brasília
 ---
 #### File Structure
-- Collect
-	- Collect_nurfoc.ipynb
+- 5.2-Coleta
+	- 5.2-nuforc.ipynb
 		* Notebook com script para coleta de dados do site Nuforc (http://www.nwlink.com/~ufocntr/).
-	- ufoCollect.csv
+	- ufoCollection.csv
 		* CSV file com dados coletados utilizando o script de coleta.
 	- RelatorioColeta.docx
 		* Documento de Relatório com passo a passo da coleta de dados.
